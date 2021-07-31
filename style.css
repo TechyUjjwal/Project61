@@ -1,0 +1,76 @@
+body{
+    text-align: center;
+    background: linear-gradient(#00FF00 10%, #000000 90%);
+    background-repeat: no-repeat;
+}
+#Title{
+    font-size: 40px;
+    color: red; 
+    font-weight: 800;
+    font-family: 'Zen Loop', cursive;
+    padding-top: 20px;
+    padding-right: 30px;
+}
+.sent{
+    font-size: 20px;
+    color: antiquewhite;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: red;
+}
+#about:hover{
+    color: red;
+}
+#About{
+    color: red;
+    background-color: aqua;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+#Hobbies{
+    color: pink;
+    background-color: yellow;
+    font-family: monospace;
+    font-size: 20px;
+}
+h2{
+    font-size: 25px;
+    font-family: bold;
+    color: aqua;
+}
+
+#Me{
+    width: 250px;
+    height: 200px;
+}
+#work{
+    background-color: aqua;
+    color: red;
+    font-size: 20px;
+}
+#YT:hover{
+    color: red;
+}
+#Git:hover{
+    color: red;
+}
+#Proj:hover{
+    color: red;
+}
+#inspiration{
+    background-color: aqua;
+    color: red;
+    font-size: 20px;
+}
+#Sachin:hover{
+    transform: scale(0.9);
+}
+#Dhoni:hover{
+    transform: scale(0.9);
+}
